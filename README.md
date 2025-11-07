@@ -1,4 +1,8 @@
-# Hi, I'm Ridvan! 👋
+<div align="center">
+
+# Hi There! 👋
+
+</div>
 
 ## 🚀 About Me
 
