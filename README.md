@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi There! 👋 <br>
-I'm Rıdvan Koçuk
+# Hi There! 👋 I'm Rıdvan
+
 
 </div>
 
