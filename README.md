@@ -94,8 +94,3 @@
 *"Always diving into new tech to stay ahead."*
 
 </div>
-
-
-
-
-imglar alt alta olmus yan yana olmasi lazim degil mi 
