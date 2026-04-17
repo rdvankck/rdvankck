@@ -8,10 +8,10 @@
 ## 🚀 About Me
 
 👋 **Name:** Rıdvan Koçuk  <br>
-📍 **Location:** Istanbul, Turkey 🇹🇷  
-⏰ **Timezone:** UTC+3  
-💼 **Title:** Full Stack Software Engineer  
-📊 **Experience:** 3+ years  
+📍 **Location:** Istanbul, Turkey 🇹🇷   <br>
+⏰ **Timezone:** UTC+3   <br>
+💼 **Title:** Full Stack Software Engineer   <br>
+📊 **Experience:** 3+ years   <br>
 
 🎯 **Specialization:**
 - Full Stack Development
