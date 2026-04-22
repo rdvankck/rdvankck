@@ -1,3 +1,8 @@
+<style>
+  .markdown-body table th, .markdown-body table td {
+    border: 0px !important;
+  }
+</style>
 <div align="center">
 
 # Hi There! 👋 I'm Rıdvan
