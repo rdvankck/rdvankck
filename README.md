@@ -11,7 +11,7 @@
 📍 **Location:** Istanbul, Turkey 🇹🇷   <br>
 ⏰ **Timezone:** UTC+3   <br>
 💼 **Title:** Full Stack Software Engineer   <br>
-📊 **Experience:** 3+ years   <br>
+📊 **Experience:** 4+ years   <br>
 
 🎯 **Specialization:**
 - Full Stack Development
