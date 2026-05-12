@@ -4,7 +4,6 @@
 
 
 </div>
-
 ## 🚀 About Me
 
 👋 **Name:** Rıdvan Koçuk  <br>
